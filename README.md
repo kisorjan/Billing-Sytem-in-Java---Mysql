@@ -1,4 +1,5 @@
 # Billing Sytem in Java + Mysql + Encrypted Login Athendication
 
-Username = admin
-password = kj
+Username = admin 
+and
+Password = kj
